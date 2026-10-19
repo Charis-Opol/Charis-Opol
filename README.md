@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am a Computer Scientist interested in utilising Machine Learning to solve impossible problems🚀<br>🔭 I’m currently working on building an effective neural network for Microfinance credit risk assessment and research AI Safety , Ethics and Governance 📊<br>🌱 I’m currently learning Deep Learning and Transformer Neural Networks📊<br>⚡ Fun fact: I am a philospher
+# 💫 About Me
+
+I'm a Computer Scientist passionate about using Machine Learning to tackle complex, real-world problems. 🚀
+
+🔭 **Currently working on:** Developing neural networks for microfinance credit risk assessment and building a rule-constrained Reinforcement Learning agent for ambiguity-aware IT incident triage as part of my final-year project.
+
+🛡️ **Research interests:** AI Safety, Ethics, Governance, and Explainable AI, with a focus on building reliable, responsible, and interpretable intelligent systems.
+
+🌱 **Currently learning:** Deep Learning, Transformer architectures, and Reinforcement Learning.
+
+⚡ **Fun fact:** I'm a philosopher at heart—I love questioning assumptions, exploring ideas, and thinking deeply about the world.
 
 
 ## 🌐 Socials:
